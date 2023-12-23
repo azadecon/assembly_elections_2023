@@ -11,4 +11,4 @@ Note from ECI:
 
 Uploaded here as well: https://osf.io/jx3ys/
 
-Cite using this: `DOI 10.17605/OSF.IO/JX3YS`
+Cite using this: `Azad, Arshad. 2023. “assembly_election_2023.” OSF. December 23. doi:10.17605/OSF.IO/JX3YS.`
