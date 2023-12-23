@@ -1,5 +1,6 @@
 # assembly_elections_2023
 
+Contains the results for Madhya Pradesh, Rajasthan, Telangana, Mizoram, and Chhattisgarh.
 Scraped from ECI website.
 
 `https://results.eci.gov.in/AcResultGenDecNew2023/index.htm`
